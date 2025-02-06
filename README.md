@@ -10,9 +10,6 @@ This repository enables users to upload multiple PDF files and interact with the
 - Generate responses with an **LLM**.
 - Simple and user-friendly interface.
 
-## Adjustments and Fixes 🛠️
-This project was inspired by a tutorial by [Alejandro AO]([https://www.youtube.com/@alejandro-ao](https://www.youtube.com/@alejandro_ao)). Adjustments have been made with the help of **ChatGPT-4.0** to fix bugs, errors and improve functionality. 
-
 ## How It Works 🔍
 ![How It Works](https://i.ibb.co/q3qR3PZs/Remodeled-pdf.jpg)
 1. **Upload PDFs** 📂
@@ -54,6 +51,9 @@ To run this project on your local machine:
    ```sh
    streamlit run app.py
    ```
+
+## Adjustments and Fixes 🛠️
+This project was inspired by a tutorial by [Alejandro AO]([https://www.youtube.com/@alejandro-ao](https://www.youtube.com/@alejandro_ao)). Adjustments have been made with the help of **ChatGPT-4.0** to fix bugs, errors and improve functionality. 
 
 ## Acknowledgments 🙌
 I would like to thank **[Alejandro AO - Software & AI](https://www.youtube.com/@alejandro-ao)** for his informative tutorial. His video [here](https://www.youtube.com/watch?v=dXxQ0LR-3Hg) provided valuable insights that helped in building and improving this project.
