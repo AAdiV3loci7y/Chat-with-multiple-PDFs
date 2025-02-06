@@ -50,7 +50,7 @@ To run this project on your local machine:
    ```
 
 ## Adjustments and Fixes 🛠️
-This project was inspired by a tutorial by [Alejandro AO]([https://www.youtube.com/@alejandro-ao](https://www.youtube.com/@alejandro_ao)). Adjustments have been made with the help of **ChatGPT-4.0** to fix bugs, errors and improve functionality. 
+This project was inspired by a tutorial by [Alejandro AO](https://www.youtube.com/@alejandro_ao). Adjustments have been made with the help of **ChatGPT-4.0** to fix bugs, errors and improve functionality. 
 
 ## Acknowledgments 🙌
 I would like to thank **[Alejandro AO - Software & AI](https://www.youtube.com/@alejandro-ao)** for his informative tutorial. His video [here](https://www.youtube.com/watch?v=dXxQ0LR-3Hg) provided valuable insights that helped in building and improving this project.
