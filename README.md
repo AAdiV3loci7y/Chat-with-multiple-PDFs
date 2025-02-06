@@ -14,6 +14,7 @@ This repository enables users to upload multiple PDF files and interact with the
 This project was inspired by a tutorial by [Alejandro AO](https://www.youtube.com/@alejandro-ao). Adjustments have been made with the help of **ChatGPT-4.0** to fix various errors and improve functionality. with the help of **ChatGPT-4.0** to fix various `""` errors and improve functionality.
 
 ## How It Works 🔍
+![How It Works](https://i.ibb.co/XrQzrvws/Remodeled-pdf.jpg)
 1. **Upload PDFs** 📂
    - Users can upload multiple PDF documents via the UI.
 
@@ -28,12 +29,8 @@ This project was inspired by a tutorial by [Alejandro AO](https://www.youtube.co
 4. **Answer Generation** 📝
    - The retrieved text is passed to an LLM to generate a final response.
 
-## Screenshots 📸
-### System Architecture
-![LangChain Pipeline](./mnt/data/Remodeled%20pdf.jpg)
-
 ### User Interface
-![Chat UI](./mnt/data/Screenshot%202025-02-07%20005050.png)
+![How It Works](https://i.ibb.co/fVm7rCLj/user-face-llm-pdf.png)
 
 ## Installation 🏗️
 To run this project on your local machine:
