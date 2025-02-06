@@ -32,11 +32,8 @@ This repository enables users to upload multiple PDF files and interact with the
 ## Installation 🏗️
 To run this project on your local machine:
 
-1. Clone the repository:
-   ```sh
-   git clone <your-repository-link-here>
-   cd Chat-with-multiple-PDFs
-   ```
+1. Clone the repository
+
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
